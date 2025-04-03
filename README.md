@@ -4,10 +4,10 @@ Hello there!\
 This repository holds my programming projects done during the period of stanCode SC001 course.
 # Project Scource Codes:
 ####
-1.[StepUp.py](link)\
-2.[BeeperRowAdv.py](link)\
-3.[MoveToTheEnd.py](link)\
-4.[PotholeFilling.py](link)\
-5.[Steeplechase.py](link)\
-6.[BeeperRow.py](link)
+1.[StepUp](link)\
+2.[BeeperRowAdv](link)\
+3.[MoveToTheEnd](link)\
+4.[PotholeFilling](link)\
+5.[Steeplechase](link)\
+6.[BeeperRow](link)
 
