@@ -9,5 +9,5 @@ This repository holds my programming projects done during the period of stanCode
 3.[MoveToTheEnd](link)\
 4.[PotholeFilling](link)\
 5.[Steeplechase](link)\
-6.[BeeperRow](link)
+6.[BeeperRow.py](link)
 
